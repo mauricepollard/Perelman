@@ -1,11 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,800");
 @import url("font-awesome.min.css");
 
-/*
-	ZeroFour by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
-*/
+
 
 /* Reset */
 
@@ -2396,3 +2392,27 @@
 	#navPanel{
 		background-color: #990000;
 	}
+	.footer{
+		text-align: center;
+		color:white;
+		background-color: #990000;
+		font-weight: bold;
+	}
+	.button.medium.icon.fas.fa-download{
+		background-color: #990000;
+	}
+	.button.medium.alt.icon.fas.fa-download{
+		background-color: #021f59;
+
+	}
+	.second.icon.fa-user{
+		color: #990000;
+	}
+	.second.icon.fa-cog{
+		color: #021f59;
+	}
+	.second.icon.fa.fa-calendar{
+		color: #990000;
+	}
+	
+	
