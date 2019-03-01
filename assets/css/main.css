@@ -2456,6 +2456,11 @@
 	.tablinks.big.icon.fas.fa-info{
 		background-color: #990000;
 	}
+	#logo{
+		display: block;
+		margin-left: auto;
+	margin-right: auto;
+	}
 	
 	@media screen and (max-width: 425px)
 	{
