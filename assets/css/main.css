@@ -2422,17 +2422,17 @@
 		margin: 0 auto;
 		display: table;
 		background-color: white;
-	}
+	} 
 
 	/* Style the buttons inside the tab */
 	.tab button {
 		
-		float: left;
+		/* float: left;
 		border: none;
 		outline: none;
 		cursor: pointer;
 		
-		transition: 0.3s;
+		transition: 0.3s; */
 		
 	}
 
@@ -2440,11 +2440,23 @@
 	.tabcontent {
 		display: none;
 		padding: 6px 12px;
-		border: 1px solid #ccc;
+		/* border: 1px solid #ccc; */
 		border-top: none;
 	}
-	.tablinks{
-		background-color: #990000;
+	.config{
+		color: #990000;
+		font-weight: 800;
+    padding-right: 10px;
+	}
+	.config:hover{
+		color: #021f59;
+		font-weight: 800;
+    padding-right: 10px;
+	}
+	.config:active{
+		color: #021f59;
+		font-weight: 800;
+    padding-right: 10px;
 	}
 	#logo2{
 		display: block;
@@ -2473,4 +2485,8 @@
 	font-size: 10px;
 	float: none;
 }
+}
+.col- a{
+	color:#990000;
+	font-weight: 600;
 }
