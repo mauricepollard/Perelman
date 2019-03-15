@@ -2398,6 +2398,8 @@
 		color:white;
 		background-color: #990000;
 		font-weight: bold;
+		padding-top: 10px;
+		padding-bottom: 10px;
 	}
 	.button.medium.icon.fas.fa-download{
 		background-color: #990000;
@@ -2489,4 +2491,8 @@
 .col- a{
 	color:#990000;
 	font-weight: 600;
+}
+i{
+	color:#990000;
+	font-size: 24px;
 }
